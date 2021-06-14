@@ -1,0 +1,3 @@
+com\mycompany\demohibernate\entities\User.class
+com\mycompany\demohibernate\test\UserDAO.class
+com\mycompany\demohibernate\utils\Hibernate.class
